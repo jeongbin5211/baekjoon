@@ -3,3 +3,4 @@
 - [백준 2438, 별 찍기](https://www.acmicpc.net/problem/2438)
 - [백준 15552, 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [백준 2439, 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [백준 10952, A+B - 5](https://www.acmicpc.net/problem/10952)
