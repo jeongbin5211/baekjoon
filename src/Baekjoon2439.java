@@ -7,6 +7,7 @@ class Baekjoon2439 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int T = Integer.parseInt(br.readLine());
+        // ㅇㅇㅇㅇ
 
         for (int i = 1; i <= T; i++) {
             for (int j = 1; j <= T-i; j++) {
