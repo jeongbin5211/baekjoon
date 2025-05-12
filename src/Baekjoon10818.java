@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class Baekjoon10818 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -10,20 +10,17 @@ class Main {
 
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int[] arr = new int[N];
+        int max = -1000001;
+        int min = 1000001;
 
-        for (int i = 0; i < N; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
-        }
+        while (st.hasMoreTokens()) {
+            int value = Integer.parseInt(st.nextToken());
 
-        int max = arr[0];
-        int min = arr[0];
-
-        for (int j = 0; j < N; j++) {
-            if (arr[j] >= max) {
-                max = arr[j];
-            } else if (arr[j] < min) {
-                min = arr[j];
+            if (value > max) {
+                max = value;
+            }
+            if (value < min) {
+                min = value;
             }
         }
         bw.write(min + " " + max);

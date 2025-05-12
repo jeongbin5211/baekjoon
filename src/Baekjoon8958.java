@@ -7,18 +7,20 @@ class Baekjoon8958 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int T = Integer.parseInt(br.readLine());
+        String[] arr = new String[T];
 
         for (int i = 0; i < T; i++) {
+            arr[i] = br.readLine();
+
             int score = 0;
-            int add = 0;
-            String str = br.readLine();
-            char[] arr = str.toCharArray();
-            for (int j = 0; j < arr.length; j++) {
-                if (arr[j] == 'O') {
-                    add += 1;
-                    score += add;
+            int sum = 0;
+
+            for (int j = 0; j < arr[i].length(); j++) {
+                if (arr[i].charAt(j) == 'O') {
+                    sum++;
+                    score += sum;
                 } else {
-                    add = 0;
+                    sum = 0;
                 }
             }
             bw.write(score + "\n");
