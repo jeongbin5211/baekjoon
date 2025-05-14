@@ -8,3 +8,4 @@
 - [백준 2675, 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [백준 8958, OX퀴즈](https://www.acmicpc.net/problem/8958)
 - [백준 10818, 최소, 최대](https://www.acmicpc.net/problem/10818)
+- [백준 10871, X보다 작은 수](https://www.acmicpc.net/problem/10871)
