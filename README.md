@@ -11,3 +11,4 @@
 - [백준 10871, X보다 작은 수](https://www.acmicpc.net/problem/10871)
 - [백준 10250, ACM 호텔](https://www.acmicpc.net/problem/10250)
 - [백준 1152, 단어의 개수](https://www.acmicpc.net/problem/1152)
+- [백준 2920, 음계](https://www.acmicpc.net/problem/2920)
