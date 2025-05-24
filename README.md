@@ -13,3 +13,5 @@
 - [백준 1152, 단어의 개수](https://www.acmicpc.net/problem/1152)
 - [백준 2920, 음계](https://www.acmicpc.net/problem/2920)
 - [백준 10809, 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+- [백준 4153, 직각삼각형](https://www.acmicpc.net/problem/4153)
+- [백준 30802, 웰컴 키트](https://www.acmicpc.net/problem/30802)
