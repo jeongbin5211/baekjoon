@@ -15,3 +15,5 @@
 - [백준 10809, 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [백준 4153, 직각삼각형](https://www.acmicpc.net/problem/4153)
 - [백준 30802, 웰컴 키트](https://www.acmicpc.net/problem/30802)
+- [백준 2231, 분해합](https://www.acmicpc.net/problem/2231)
+- [백준 2292, 벌집](https://www.acmicpc.net/problem/2292)
