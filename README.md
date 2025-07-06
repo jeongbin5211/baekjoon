@@ -17,3 +17,5 @@
 - [백준 30802, 웰컴 키트](https://www.acmicpc.net/problem/30802)
 - [백준 2231, 분해합](https://www.acmicpc.net/problem/2231)
 - [백준 2292, 벌집](https://www.acmicpc.net/problem/2292)
+- [백준 10811, 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
+- [백준 27433, 팩토리얼 2](https://www.acmicpc.net/problem/27433)
